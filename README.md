@@ -19,13 +19,17 @@
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
+<BR>
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
+![AWS Well Architected](images/aws-well-architected-proficient-198x198.png)
+<BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 
-# Best Practices
+# Best Practices and suggestions
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts.
 * Use MFA.  Always. (where possible)
 * Cloud9 is a great IDE which is integrated to AWS Services and does not require management of AWS access keys.
+* Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 
 <!---
 cloudXabide/cloudXabide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
