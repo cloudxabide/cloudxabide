@@ -24,7 +24,7 @@
 ![AWS Well Architected](images/aws-well-architected-proficient-198x198.png)
 <BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
-![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM.png)
+![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
 
 # Best Practices and suggestions
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts.
