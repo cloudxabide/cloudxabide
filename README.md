@@ -22,6 +22,7 @@
 <BR>
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
 ![AWS Well Architected](images/aws-well-architected-proficient-198x198.png)
+![AWS Generative AI Essentials](images/GenAI-Essentials-200x200.png)
 <BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
