@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- 👀 I’m interested in ... Hybrid Cloud, Containers, Global Thermonuclear War 
+- 👀 I’m interested in ... Hybrid Cloud, Containers, Kubernetes, AI/ML, AWS Cloud
 - 🌱 I’m currently learning ... Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... cloudxabide \<at> gmail
