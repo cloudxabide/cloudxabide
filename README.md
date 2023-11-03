@@ -21,8 +21,10 @@
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
 <BR>
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
-![AWS Well Architected](images/aws-well-architected-proficient-198x198.png)
 ![AWS Generative AI Essentials](images/aws-partner-generative-ai-essentials-business-204x204.png)
+![SAP on AWS](images/aws-partner-sap-on-aws-200x200.png)
+<BR>
+![AWS Well Architected](images/aws-well-architected-proficient-198x198.png)
 <BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
