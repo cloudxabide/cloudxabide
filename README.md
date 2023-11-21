@@ -19,6 +19,7 @@
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
+![AWS Certified SysOps Administrator Associate](./images/aws-certified-sysops-associate-200x200.png)
 <BR>
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
 ![AWS Generative AI Essentials](images/aws-partner-generative-ai-essentials-business-204x204.png)
