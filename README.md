@@ -1,21 +1,20 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- 👀 I’m interested in ... Hybrid Cloud, Containers, Docker, Kubernetes, Linux, AI/ML, AWS Cloud
+- 👀 I’m interested in ... Hybrid Cloud, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML, KubeCon/CNCF
 - 🌱 I’m currently learning ... Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... cloudxabide \<at> gmail
 
-- cloudXabide is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
-- What this is not: a training program or curriculum.   There are many other folks already doing a great job at that.
+- My cloudXabide Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
+- What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
-| Service / Username       | URL |
-|:-------------------------|:-----------------------------------------|
-| GitHub - cloudXabide | https://github.com/cloudxabide       | 
-| Medium @cloudxabide  | https://medium.com/@cloudxabide/     |
-| Twitch - cloudXabide | https://www.twitch.tv/cloudxabide    |
-| YouTube @cloudxabide | https://www.youtube.com/@cloudxabide |
-| Twitter @cloudXabide | https://twitter.com/cloudXabide      |
-| Credly - cloudxabide | https://credly.com/users/cloudxabide |
-
+| Service - Username     | URL                                      |
+|:-----------------------|:-----------------------------------------|
+| GitHub - cloudXabide   | https://github.com/cloudxabide       | 
+| Medium - @cloudxabide  | https://medium.com/@cloudxabide/     |
+| Twitch - cloudXabide   | https://www.twitch.tv/cloudxabide    |
+| YouTube - @cloudxabide | https://www.youtube.com/@cloudxabide |
+| Twitter - @cloudXabide | https://twitter.com/cloudXabide      |
+| Credly - cloudxabide   | https://credly.com/users/cloudxabide |
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
