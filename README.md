@@ -4,7 +4,8 @@
   - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) 
   - [Amazon EKS Workshop](https://github.com/aws-samples/eks-workshop-v2 ) 
   - [Ollama](https://github.com/jmorganca/ollama)  
-  - [Ollama-webui](https://github.com/ollama-webui/ollama-webui) and maybe some Banjo and Bass
+  - [Ollama-webui](https://github.com/ollama-webui/ollama-webui) 
+  - and maybe the Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... cloudxabide \<at> gmail
 
