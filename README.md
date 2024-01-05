@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
 - 👀 I’m interested in ... Hybrid Cloud, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML, KubeCon/CNCF
 - 🌱 I’m currently learning (and contributing to) ... 
-  - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) 
-  - [Amazon EKS Workshop](https://github.com/aws-samples/eks-workshop-v2 ) 
-  - [Ollama](https://github.com/jmorganca/ollama)  
-  - [Ollama-webui](https://github.com/ollama-webui/ollama-webui) 
+  - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS **Anywhere** 
+  - [Amazon EKS Workshop](https://github.com/aws-samples/eks-workshop-v2 ) - Learn EKS with currated guides and examples
+  - [Ollama](https://github.com/jmorganca/ollama) - An LLM "engine" (?) for running different models
+  - [Ollama-webui](https://github.com/ollama-webui/ollama-webui) - a WebUI to provide access to Ollama
+  - [Data On EKS](https://github.com/awslabs/data-on-eks) - Build, Scale, and Optimize Data & AI/ML Platforms on Amazon EKS 🚀
   - and maybe the Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... cloudxabide \<at> gmail
