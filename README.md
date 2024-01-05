@@ -41,6 +41,7 @@
 * Use MFA.  Always. (where possible)
 * Cloud9 is a great IDE which is integrated to AWS Services and does not require management of AWS access keys.
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
+* (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
 
 <!---
 cloudXabide/cloudXabide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
