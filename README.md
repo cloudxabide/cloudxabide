@@ -17,9 +17,6 @@
 |:-----------------------|:-----------------------------------------|
 | GitHub - cloudXabide   | https://github.com/cloudxabide       | 
 | Medium - @cloudxabide  | https://medium.com/@cloudxabide/     |
-| Twitch - cloudXabide   | https://www.twitch.tv/cloudxabide    |
-| YouTube - @cloudxabide | https://www.youtube.com/@cloudxabide |
-| Twitter - @cloudXabide | https://twitter.com/cloudXabide      |
 | Credly - cloudxabide   | https://credly.com/users/cloudxabide |
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
