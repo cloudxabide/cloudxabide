@@ -32,6 +32,7 @@
 <BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
+![LinuxFoundation (edX) Introduction to Cilium](images/LFS146x_Introduction_to_Cilium-200x200.png)
 
 # Best Practices and suggestions
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts.
