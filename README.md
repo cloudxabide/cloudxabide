@@ -34,10 +34,14 @@
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
 ![LinuxFoundation (edX) Introduction to Cilium](images/LFS146x_Introduction_to_Cilium-200x200.png)
 
+## Certifications (Expired/Old)
+![Red Hat Certified Specialist in Gluster Storage Administration](./images/RedHatCertifiedSpecialist_in_GlusterStorageAdministration-200x200.png)
+![Red Hat Certified Specialist in Virtualization](./images/RedHatCertifiedSpecialist_in_Virtualization-200x200.png)
+![Red Hat Certified Engineer](./images/RedHatCertifiedEngineer-200x200.png)
+
 # Best Practices and suggestions
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts.
 * Use MFA.  Always. (where possible)
-* Cloud9 is a great IDE which is integrated to AWS Services and does not require management of AWS access keys.
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
 
