@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- 👀 I’m interested in ... Hybrid Cloud, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML, KubeCon/CNCF
+- 👀 I’m interested in ... Hybrid Cloud, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
+- My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently learning (and contributing to) ... 
   - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS **Anywhere** 
   - [Amazon EKS Workshop](https://github.com/aws-samples/eks-workshop-v2 ) - Learn EKS with currated guides and examples
@@ -40,7 +41,7 @@
 ![Red Hat Certified Engineer](./images/RedHatCertifiedEngineer-200x200.png)
 
 # Best Practices and suggestions
-* Do NOT use the "Root Account" for anything other than creating new IAM accounts.
+* Do NOT use the "Root Account" for anything other than creating new IAM accounts, or managing IdentityCenter assets.
 * Use MFA.  Always. (where possible)
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
