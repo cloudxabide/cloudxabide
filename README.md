@@ -26,6 +26,7 @@
 <BR>
 ![AWS Well-Architected](images/aws-well-architected-proficient-198x198.png)
 ![AWS Technology - Amazon EKS](images/aws-technology-amazon-eks-200x200.png)
+![AWS Partner - Digital Sovereignty](images/aws-partner-digital-sovereignty-60x60.png)
 <BR>
 ![AWS Generative AI Essentials](images/aws-partner-generative-ai-essentials-business-204x204.png)
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
