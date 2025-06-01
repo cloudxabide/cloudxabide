@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- 👀 I’m interested in ... Hybrid Cloud, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
+- 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
 - My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently learning (and contributing to) ... 
   - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS **Anywhere** 
