@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
+- 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE (Linux, AI, Virtualization, Observability, Securtiy), AWS Cloud, Containers, Docker, Kubernetes, KubeCon/CNCF, Digital Sovereignty
 - My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
-- 🌱 I’m currently learning (and contributing to) ... 
+- 🌱 I’m currently focused on (and contributing to) ... 
   - [ExMachina](https://github.com/cloudxabide/ExMachina) - Homelab "playground" for "A sovereign, air-gap-capable agentic AI platform with physical edge presence"
   - [luminAIge](https://github.com/cloudxabide/luminAIge) - Homelab "playground" for "Sovereign AI infrastructure that is RAG-enabled, running entirely on local hardware."
   - [RGS Carbide Enclave](https://github.com/jradtke-rgs/carbide-enclave.kubernerdes.com) - Deploy RGS solutions in a tactical edge form factor
@@ -17,6 +17,7 @@
 | GitHub - cloudXabide   | https://github.com/cloudxabide       | 
 | Medium - @cloudxabide  | https://medium.com/@cloudxabide/     |
 | Credly - cloudxabide   | https://credly.com/users/cloudxabide |
+| YouTube - @cloudxabide | https://www.youtube.com/channel/UCA7P2NZMN_FW6SvXwn2sz-A |
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
