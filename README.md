@@ -2,11 +2,8 @@
 - 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
 - My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently learning (and contributing to) ... 
-  - [Amazon EKS-Anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS **Anywhere** 
-  - [Amazon EKS Workshop](https://github.com/aws-samples/eks-workshop-v2 ) - Learn EKS with currated guides and examples
-  - [Ollama](https://github.com/jmorganca/ollama) - An LLM "engine" (?) for running different models
-  - [Ollama-webui](https://github.com/ollama-webui/ollama-webui) - a WebUI to provide access to Ollama
-  - [Data On EKS](https://github.com/awslabs/data-on-eks) - Build, Scale, and Optimize Data & AI/ML Platforms on Amazon EKS 🚀
+  - [ExMachina](https://github.com/cloudxabide/ExMachina) - My Homelab "playground" for testing sovereign/local AI
+  - [RGS Carbide Enclave](https://github.com/jradtke-rgs/carbide-enclave.kubernerdes.com) - Deploy RGS solutions in a tactical edge form factor
   - and maybe the Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... cloudxabide \<at> gmail
