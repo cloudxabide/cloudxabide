@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE, AWS Cloud, EKS Anywhere, Containers, Docker, Kubernetes, Linux, AI/ML - GenerativeAI, KubeCon/CNCF
 - My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently learning (and contributing to) ... 
-  - [ExMachina](https://github.com/cloudxabide/ExMachina) - My Homelab "playground" for testing sovereign/local AI
+  - [ExMachina](https://github.com/cloudxabide/ExMachina) - Homelab "playground" for "A sovereign, air-gap-capable agentic AI platform with physical edge presence"
+  - [luminAIge](https://github.com/cloudxabide/luminAIge) - Homelab "playground" for "Sovereign AI infrastructure that is RAG-enabled, running entirely on local hardware."
   - [RGS Carbide Enclave](https://github.com/jradtke-rgs/carbide-enclave.kubernerdes.com) - Deploy RGS solutions in a tactical edge form factor
   - and maybe the Banjo and Bass
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
