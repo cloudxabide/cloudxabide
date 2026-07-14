@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke) - I have been doing "system administration" since 1999.  Got my first RHCE in 2000.  Worked at Sun Microsystems (until Oracle bought them), then worked at Red Hat (until IBM bought them), worked at AWS (then things changed), and now work at [SUSE](https://www.suse.com/)
 - 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE (Linux, AI, Virtualization, Observability, Securtiy), AWS Cloud, Containers, Docker, Kubernetes, KubeCon/CNCF, Digital Sovereignty. All is s primarily for personal development around Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently focused on (and contributing to) ... 
+  - [SUSE Homelab](https://github.com/cloudxabide/homelab.kubernerdes.com) - Homelab "playground" for "A sovereign, air-gap-capable infrastructure solution" based on SUSE software.
   - [ExMachina](https://github.com/cloudxabide/ExMachina) - Homelab "playground" for "A sovereign, air-gap-capable agentic AI platform with physical edge presence"
   - [luminAIge](https://github.com/cloudxabide/luminAIge) - Homelab "playground" for "Sovereign AI infrastructure that is RAG-enabled, running entirely on local hardware."
   - [RGS Carbide Enclave](https://github.com/jradtke-rgs/carbide-enclave.kubernerdes.com) - Deploy RGS solutions in a tactical edge form factor
