@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cloudXabide (James Radtke)
-- I have been doing "system administration" since 1999.  Got my first RHCE in 2000.  Worked at Sun Microsystems (until Oracle bought them), the worked at Red Hat (until IBM bought them), worked at AWS (then things changed), and now work at [SUSE](https://www.suse.com/)
+- I have been doing "system administration" since 1999.  Got my first RHCE in 2000.  Worked at Sun Microsystems (until Oracle bought them), then worked at Red Hat (until IBM bought them), worked at AWS (then things changed), and now work at [SUSE](https://www.suse.com/)
 - 👀 I’m interested in ... Hybrid and Edge Cloud, SUSE (Linux, AI, Virtualization, Observability, Securtiy), AWS Cloud, Containers, Docker, Kubernetes, KubeCon/CNCF, Digital Sovereignty
 - My primary interest for personal development is Kubernetes &#9096; - which I am documenting via my Git Repo(s) and https://kubernerdes.com
 - 🌱 I’m currently focused on (and contributing to) ... 
