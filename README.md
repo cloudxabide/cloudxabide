@@ -46,28 +46,25 @@
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
 
-[![cloudxabide's github stats](https://github-readme-stats.vercel.app/api?username=cloudxabide&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
 # Claude's opinion of me
-<pre>
-Here's how I'd describe you. It's drawn from the work we've done together, so it leans toward your recent technical and customer work rather than your full career record.
-
-The pitch
-
-He's a presales Solutions Architect with a rare mix of depth and range. He has decades in enterprise Linux and open source infrastructure, starting at Sun, then Red Hat Public Sector, then AWS during the EC2/ECS era. He now works at Rancher Government Solutions (a SUSE company), where he specializes in Kubernetes for U.S. Federal, DoD, and Intelligence Community customers. He knows the hard parts of that world: air-gapped and disconnected deployments, FIPS and STIG compliance, and IL4 to IL6 environments. He also knows the products: RKE2, K3s, RGS Harvester for Government, NeuVector, Longhorn, and Carbide.
-
-What sets him apart
-
-He builds what he recommends. He runs a serious homelab that works as a proving ground: a multi-node Harvester cluster, FreeIPA, TrueNAS, and a Fibre Channel SAN. On top of that he's built an air-gapped Carbide enclave, IaC-first, with Hauler, Harbor, step-ca, and Keycloak. He treats it with production rigor, including documented bootstrap ordering, hard rules for what crosses the air gap, and validated NTP and PKI design. When a customer asks how something behaves in a disconnected enclave, he has usually already run into the sharp edges himself.
-
-He's also ahead of most SAs on AI infrastructure. He's worked on self-hosted inference (vLLM, NIM, Ollama), GPU passthrough and scheduling on Harvester, and GPU sharing on Kubernetes. He can talk credibly about sovereign, disconnected AI, which is a growing question in regulated markets.
-
-How he works with customers and teams
-
-He turns technical depth into artifacts people can use. He's written reference architectures (such as an object-gateway-on-Harvester-with-enterprise-SAN design), storage briefs on Longhorn and Fibre Channel, an SA technical note on headless edge installs, and demo walkthroughs. He also drafted a conference proposal on running Kubernetes where the cloud doesn't reach. He partners closely with account executives and pays attention to the market, including how VMware/Broadcom pricing creates displacement opportunities.
-
-His working style is disciplined. He scopes before he builds, does feasibility and gap analysis first, verifies claims against official documentation, prefers automation to manual steps, and keeps his design decisions documented.
-</pre>
+>[!NOTE]
+> Here's how I'd describe you. It's drawn from the work we've done together, so it leans toward your recent technical and customer work rather than your full career record.
+>
+> The pitch
+>
+> He's a presales Solutions Architect with a rare mix of depth and range. He has decades in enterprise Linux and open source infrastructure, starting at Sun, then Red Hat Public Sector, then AWS during the EC2/ECS era. He now works at Rancher Government Solutions (a SUSE company), where he specializes in Kubernetes for U.S. Federal, DoD, and Intelligence Community customers. He knows the hard parts of that world: air-gapped and disconnected deployments, FIPS and STIG compliance, and IL4 to IL6 environments. He also knows the products: RKE2, K3s, RGS Harvester for Government, NeuVector, Longhorn, and Carbide.
+>
+> What sets him apart
+> 
+> He builds what he recommends. He runs a serious homelab that works as a proving ground: a multi-node Harvester cluster, FreeIPA, TrueNAS, and a Fibre Channel SAN. On top of that he's built an air-gapped Carbide enclave, IaC-first, with Hauler, Harbor, step-ca, and Keycloak. He treats it with production rigor, including documented bootstrap ordering, hard rules for what crosses the air gap, and validated NTP and PKI design. When a customer asks how something behaves in a disconnected enclave, he has usually already run into the sharp edges himself.
+> 
+> He's also ahead of most SAs on AI infrastructure. He's worked on self-hosted inference (vLLM, NIM, Ollama), GPU passthrough and scheduling on Harvester, and GPU sharing on Kubernetes. He can talk credibly about sovereign, disconnected AI, which is a growing question in regulated markets.
+>
+> How he works with customers and teams
+>
+> He turns technical depth into artifacts people can use. He's written reference architectures (such as an object-gateway-on-Harvester-with-enterprise-SAN design), storage briefs on Longhorn and Fibre Channel, an SA technical note on headless edge installs, and demo walkthroughs. He also drafted a conference proposal on running Kubernetes where the cloud doesn't reach. He partners closely with account executives and pays attention to the market, including how VMware/Broadcom pricing creates displacement opportunities.
+>
+> His working style is disciplined. He scopes before he builds, does feasibility and gap analysis first, verifies claims against official documentation, prefers automation to manual steps, and keeps his design decisions documented.
 
 <!---
 cloudXabide/cloudXabide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
