@@ -34,8 +34,6 @@
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
 ![LinuxFoundation (edX) Introduction to Cilium](images/LFS146x_Introduction_to_Cilium-200x200.png)
-
-## Certifications (Expired/Old)
 ![Red Hat Certified Specialist in Gluster Storage Administration](./images/RedHatCertifiedSpecialist_in_GlusterStorageAdministration-200x200.png)
 ![Red Hat Certified Specialist in Virtualization](./images/RedHatCertifiedSpecialist_in_Virtualization-200x200.png)
 ![Red Hat Certified Engineer](./images/RedHatCertifiedEngineer-200x200.png)
